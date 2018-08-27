@@ -31,5 +31,5 @@ Stop	KEYWORD2
 GoSquare	KEYWORD2
 
 #####################################
-Constants (LITERAL1)
+# Constants (LITERAL1)
 #####################################
